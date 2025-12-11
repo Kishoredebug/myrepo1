@@ -6,7 +6,7 @@ data added to aws file by dev1
 
 else
 {
-  print("invalid reason")
+  print("invalid")
 }
 
 // eles if 
